@@ -5,9 +5,11 @@ int main()
 {
     int number;
     bool isPrime;
+
     printf("\n");
     printf("Enter a number: ");
     scanf("%d", &number);
+
     for (int i = 2; i < number; i++)
     {
         isPrime = true;
