@@ -27,4 +27,5 @@ int main()
         printf("Your grade is F");
     }
     printf("\n\n");
+    return 0;
 }
