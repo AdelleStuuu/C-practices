@@ -10,5 +10,7 @@ int main()
     {
         printf("The number is even and positive!");
     }
+
     printf("\n\n");
+    return 0;
 }
